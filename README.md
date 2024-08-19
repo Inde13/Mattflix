@@ -1,5 +1,5 @@
 # MATTFLIX
 
-## Sobre
+## About
 
-Projeto feito seguindo o curso da Alura
+Project made following Alura course
